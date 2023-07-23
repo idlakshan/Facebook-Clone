@@ -15,7 +15,7 @@ export default function NavBar() {
         <div className="navBarCenter">
             <div className="searchBarBox">
                 <SearchIcon className='searchIcon'/>
-                <input type="text" placeholder='Search For Your Friend' className="searchInput" />
+                <input type="text" placeholder='Search Facebook' className="searchInput" />
             </div>
         </div>
         <div className="navBarRight">

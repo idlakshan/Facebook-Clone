@@ -6,6 +6,7 @@
     align-items: center;
     position: sticky;
     top: 0;
+    font-family: sans-serif;
 }
 .navBarLeft{
    flex: 3;
@@ -85,7 +86,7 @@
 }
 .navBarLinks{
     margin-left: 20px;
-    font-size: 18px;
+    font-size: 16px;
     cursor: pointer;
     font-weight: bold;
 
