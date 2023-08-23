@@ -3,9 +3,11 @@
     height: 35px;
     border-radius: 50%;
     object-fit: cover;
+    margin-top: 10px;
 }
 
 .post{
+    width: 95%;
     font-family: sans-serif; 
     -webkit-box-shadow: 5px 5px 7px 5px rgba(0,0,0,0.24); 
     box-shadow: 5px 5px 7px 5px rgba(0,0,0,0.24);
@@ -25,12 +27,13 @@
 .postUsername{
     font-size: 15px;
     font-weight: 500;
-    margin: 0 10px;
+    margin: 12px 10px 0 10px;
   
 }
 
 .postTime{
     font-size: 12px;
+    margin-top: 11px;
 
 }
 
@@ -38,6 +41,7 @@
     width: 98%;
     background-size: cover;
     margin-left: 5px;
+
 }
 
 .postBottom{
